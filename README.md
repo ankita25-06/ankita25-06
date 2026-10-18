@@ -1,7 +1,6 @@
 # Hi there, I'm Ankita 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-mallik-22164738a)
 
 ---
 
@@ -43,4 +42,4 @@
 
 ---
 
-📫 **Reach Out:** Feel free to connect for software development collaborations or open-source projects!
+📫 **Reach Out:** Feel free to connect on [LinkedIn](https://www.linkedin.com/in/ankita-mallik-22164738a) for software development collaborations or open-source projects!
