@@ -24,7 +24,7 @@
 ---
 
 ### 🤝 Collaborative Projects
-* 🌟 **[UIG-website](https://github.com/pavitrabehera7-ui/UIG-website):** Contributed to the development and UI design of the User Interface Group web application, focusing on responsive frontend design and clean component structuring.
+* 🌟 **[UIG-website](https://github.com/pavitrabehera7-ui/UIG-website):** Contributed to the development and UI design of the United International Group web application, focusing on responsive frontend design and clean component structuring.
 
 ---
 
