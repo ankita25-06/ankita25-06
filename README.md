@@ -1,12 +1,14 @@
 # Hi there, I'm Ankita 👋
 
-[LinkedIn]->> https://www.linkedin.com/in/ankita-mallik-22164738a
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://your-portfolio-link.com)
+
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently Working On:** Web applications, frontend projects, and interactive AI/ML tools.
-- 🌱 **Learning & Exploring:** Data Structures & Algorithms, Machine Learning, and Agentic AI.
-- 💡 **Interests:** Full-stack development, creative web UI design, and problem solving.
+- 🔭 **Currently Working On:** Full-stack web applications, frontend architectures, and interactive web tools.
+- 🌱 **Learning & Exploring:** Data Structures & Algorithms, Machine Learning, and Agentic AI workflows.
+- 💡 **Interests:** Software engineering, UI/UX design, and practical AI application development.
 
 ---
 
@@ -22,18 +24,23 @@
 
 ---
 
+### 🤝 Collaborative Projects
+* 🌟 **[UIG-website](https://github.com/pavitrabehera7-ui/UIG-website):** Contributed to the development and UI design of the User Interface Group web application, focusing on responsive frontend design and clean component structuring.
+
+---
+
+### 📌 Personal & Featured Repositories
+* 🐱 **[cat-website](https://github.com/ankita25-06/cat-website):** Feline health triage and interactive web app built with JavaScript.
+* 🌌 **[Zenith](https://github.com/ankita25-06/Zenith):** Web development project built with JavaScript.
+* 🎮 **[PTCG-game](https://github.com/ankita25-06/PTCG-game):** Interactive web application.
+* 🚢 **[titanic_survival_app](https://github.com/ankita25-06/titanic_survival_app):** Machine learning application for survival analysis built in Python.
+
+---
+
 ### 📊 GitHub Stats
 ![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita25-06&layout=compact&theme=dark)
 
 ---
 
-### 📌 Featured Projects
-* 🐱 **[cat-website](https://github.com/ankita25-06/cat-website):** Feline health triage and interactive web app.
-* 🌌 **[Zenith](https://github.com/ankita25-06/Zenith):** Web development project.
-* 🎮 **[PTCG-game](https://github.com/ankita25-06/PTCG-game):** Interactive JavaScript game.
-* 🚢 **[titanic_survival_app](https://github.com/ankita25-06/titanic_survival_app):** Machine learning app predicting survival outcomes.
-
----
-
-📫 **Reach Out:** Feel free to connect with me for collaborations or tech discussions!
+📫 **Reach Out:** Feel free to connect for software development collaborations or open-source projects!
