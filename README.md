@@ -1,6 +1,6 @@
 # Hi there, I'm Ankita 👋
 
-[![LinkedIn]https://www.linkedin.com/in/ankita-mallik-22164738a
+[LinkedIn]->> https://www.linkedin.com/in/ankita-mallik-22164738a
 ---
 
 ### 🚀 About Me
