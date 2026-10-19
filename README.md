@@ -48,7 +48,7 @@
 ![](./profile-3d-contrib/profile-night-view.svg)
 <br/>
 
-![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark)
+![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark&cache=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita25-06&layout=compact&theme=dark)
 
 </div>
