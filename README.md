@@ -1,6 +1,11 @@
+<div align="center">
+
 # Hi there, I'm Ankita 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36F9F6&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;Web+Developer;AI+%26+ML+Explorer" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-mallik-22164738a)
+
+</div>
 
 ---
 
@@ -39,6 +44,11 @@
 ### 📊 STATS & CONTRIBUTIONS
 
 <div align="center">
+
+<!-- 3D/Isometric Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita25-06&theme=react-dark&hide_border=true&area=true&custom_title=Ankita's+Contribution+Activity" width="100%" />
+
+<br/>
 
 ![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita25-06&layout=compact&theme=dark)
