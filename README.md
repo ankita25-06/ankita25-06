@@ -26,9 +26,14 @@
 
 <br/><br/><br/>
 
-<!-- Bottom Section: Identical Sized Stats Cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark&hide_rank=true&cache=true" height="185" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita25-06&layout=donut&theme=dark&card_width=425" height="185" />
-</p>
+<!-- Bottom Section: Side-by-Side Stats Cards with Borderless Alignment -->
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" valign="middle" style="border: none; padding-right: 15px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark&hide_rank=true&cache=true" height="180" />
+    </td>
+    <td align="center" valign="middle" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita25-06&layout=donut&theme=dark" height="180" />
+    </td>
+  </tr>
+</table>
