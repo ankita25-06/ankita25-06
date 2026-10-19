@@ -28,15 +28,15 @@
 <br clear="both"/>
 <br/><br/>
 
-<!-- Bottom Section: Full Height & Width Aligned Stats Cards -->
+<!-- Bottom Section: Perfectly Matched Stats Cards -->
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td align="center" valign="middle" style="border: none; padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark&hide_rank=true&cache=true&card_width=495" height="215" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark&hide_rank=true&cache=true&card_width=495" height="185" />
       </td>
       <td align="center" valign="middle" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita25-06&layout=donut&theme=dark&card_width=495" height="215" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita25-06&layout=compact&theme=dark&card_width=495" height="185" />
       </td>
     </tr>
   </table>
