@@ -11,7 +11,7 @@
 
 <p align="right">
   
-  <img src="(https://in.pinterest.com/pin/992551205390224348/)" width="40%" align="right" alt="Developer Illustration" />
+  <img src="(https://pin.it/4cKsxkYJi)" width="40%" align="right" alt="Developer Illustration" />
 </p>
 
 - 🚀 **Current Focus:** AI, ML & Full-Stack Web Development
