@@ -1,8 +1,8 @@
 # 😎 Hey Everyone, I'm Ankita
 
-<!-- 3D Contribution Graph (Adjust height value below if you want it larger/smaller) -->
+<!-- 3D Contribution Graph (Full Width) -->
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" height="320" alt="3D Profile Graph" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Profile Graph" />
 </div>
 
 <br/>
@@ -24,13 +24,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-mallik-22164738a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
-<!-- Clear floats and add vertical space -->
+<!-- Clear floats and add spacing -->
 <br clear="both"/>
 <br/><br/>
 
-<!-- Bottom Section: Perfectly Matched Equal-Height Stats Cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark&hide_rank=true&cache=true&card_width=450" height="200" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita25-06&layout=compact&theme=dark&card_width=450" height="200" />
-</p>
+<!-- Bottom Section: Full Width Equal Height Side-by-Side Stats Cards -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" valign="middle" width="50%" style="border: none; padding-right: 8px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark&hide_rank=true&cache=true" width="100%" />
+    </td>
+    <td align="center" valign="middle" width="50%" style="border: none; padding-left: 8px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita25-06&layout=compact&theme=dark" width="100%" />
+    </td>
+  </tr>
+</table>
