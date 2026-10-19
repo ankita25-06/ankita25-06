@@ -24,20 +24,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-mallik-22164738a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
-<!-- Clear floating elements so the stats section starts fresh -->
-<br clear="both"/>
-<br/>
+<br/><br/><br/>
 
-<!-- Bottom Section: Locked Side-by-Side Horizontal Stats Cards -->
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" valign="middle" style="border: none; padding-right: 12px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark&hide_rank=true&cache=true" height="185" />
-      </td>
-      <td align="center" valign="middle" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita25-06&layout=donut&theme=dark&card_width=420" height="185" />
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- Bottom Section: Identical Sized Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark&hide_rank=true&cache=true" height="185" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita25-06&layout=donut&theme=dark&card_width=425" height="185" />
+</p>
