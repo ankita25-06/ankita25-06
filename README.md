@@ -24,19 +24,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-mallik-22164738a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
-<!-- Clear floats and add spacing to push cards a little lower -->
+<!-- Clear floats and add spacing -->
 <br clear="both"/>
 <br/><br/>
 
-<!-- Bottom Section: Full-Width Aligned Stats Cards -->
+<!-- Bottom Section: Full Height & Width Aligned Stats Cards -->
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td align="center" valign="middle" style="border: none; padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark&hide_rank=true&cache=true&card_width=495" height="195" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark&hide_rank=true&cache=true&card_width=495" height="215" />
       </td>
       <td align="center" valign="middle" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita25-06&layout=donut&theme=dark&card_width=495" height="195" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita25-06&layout=donut&theme=dark&card_width=495" height="215" />
       </td>
     </tr>
   </table>
