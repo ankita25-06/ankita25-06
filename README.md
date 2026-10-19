@@ -1,9 +1,17 @@
-# 😎 Hey Everyone, I'm Ankita
+# Hey Everyone, I'm Ankita
+
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Profile Graph" />
+</div>
+
+<br/>
 
 ### 💻 Welcome to My GitHub Universe!
 
 <p align="right">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="48%" align="right" alt="3D Profile Graph" />
+  
+  <img src="(https://in.pinterest.com/pin/992551205390224348/)" width="40%" align="right" alt="Developer Illustration" />
 </p>
 
 - 🚀 **Current Focus:** AI, ML & Full-Stack Web Development
@@ -15,3 +23,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-mallik-22164738a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+
+<br/><br/>
+
+<!-- Horizontal Side-by-Side Stats Cards -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark&cache=true" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita25-06&layout=donut&theme=dark" height="170" />
+
+</div>
