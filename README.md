@@ -10,9 +10,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently Working On:** Full-stack web applications, frontend architectures, and interactive web tools.
+- 🔭 **Currently Working On:** Full-stack web applications, frontend architectures, interactive web tools, and ML models .
 - 🌱 **Learning & Exploring:** Data Structures & Algorithms, Machine Learning, and Agentic AI workflows.
-- 💡 **Interests:** Software engineering, UI/UX design, and practical AI application development.
+- 💡 **Interests:** practical AI application development, Software engineering, and UI/UX design.
 
 ---
 
@@ -29,7 +29,8 @@
 ---
 
 ### 🤝 Collaborative Projects
-* 🌟 **[UIG-website](https://github.com/pavitrabehera7-ui/UIG-website):** Contributed to the development and UI design of the User Interface Group web application.
+* 🏛️ **[the-blueprint-advisory](https://github.com/pavitrabehera7-ui/the-blueprint-advisory):** Contributed to the project of the Blueprint Advisory web application.
+* 🌟 **[UIG-website](https://github.com/pavitrabehera7-ui/UIG-website):** Contributed to the development and UI design of the United International Group web application.
 
 ---
 
