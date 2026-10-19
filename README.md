@@ -45,8 +45,7 @@
 
 <div align="center">
 
-<!-- 3D/Isometric Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita25-06&theme=react-dark&hide_border=true&area=true&custom_title=Ankita's+Contribution+Activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita25-06&theme=react-dark" width="100%" />
 
 <br/>
 
