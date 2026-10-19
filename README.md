@@ -45,8 +45,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankita25-06&theme=react-dark" width="100%" />
-
+![](./profile-3d-contrib/profile-night-view.svg)
 <br/>
 
 ![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark)
