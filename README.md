@@ -1,4 +1,4 @@
-# 😎 Hey Everyone, I'm Ankita
+# Hey Everyone, I'm Ankita
 
 <!-- 3D Contribution Graph across top -->
 <div align="center">
