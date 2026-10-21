@@ -20,7 +20,7 @@
 - 📌 **Featured Projects:** [Felinehub](https://github.com/ankita25-06/Felinehub) | [Zenith](https://github.com/ankita25-06/Zenith) | [PTCG-game](https://github.com/ankita25-06/PTCG-game) | [titanic_survival_app](https://github.com/ankita25-06/titanic_survival-app)
 
 <br/>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white)](https://ankita-mallik.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-mallik-22164738a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
