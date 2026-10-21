@@ -29,7 +29,6 @@
 <br/><br/>
 
 <!-- Bottom Section: Centered Stats Card in Original Native Size -->
-
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark&hide_rank=true&count_private=true&cache=true"width="60%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankita25-06&show_icons=true&theme=dark&hide_rank=true&count_private=true&cache_seconds=1" width="60%" />
 </div>
