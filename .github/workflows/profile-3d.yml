@@ -8,7 +8,7 @@ on:
     branches: [main]       # also runs when you push to this profile repo
 
 permissions:
-  contents: write          # lets the bot push the generated SVGs
+  contents: write
 
 jobs:
   build:
@@ -20,7 +20,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: .github/3d-settings.json
       - name: Commit & Push changes
         run: |
           git config user.name github-actions[bot]
