@@ -3,7 +3,7 @@ name: GitHub-Profile-3D-Contrib
 on:
   schedule:
     - cron: "0 * * * *"   # every hour
-  workflow_dispatch:       # manual trigger button
+  workflow_dispatch:        # manual trigger button
   push:
     branches: [main]       # also runs when you push to this profile repo
 
