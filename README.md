@@ -2,7 +2,7 @@
 
 <!-- 3D Contribution Graph across top -->
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Profile Graph" />
+  <img src="./profile-3d-contrib/profile-customize.svg" width="100%" alt="3D Profile Graph" />
 </div>
 
 <br/>
