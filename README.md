@@ -16,7 +16,7 @@
 
 - 🚀 **Current Focus:** AI, ML & Full-Stack Web Development
 - 💡 **Interests:** Agentic AI & Interactive 3D Web Development
-- 🤝 **Collaborative Work:** [the-blueprint-advisory](https://github.com/pavitrabehera7-ui/the-blueprint-advisory) | [UIG-website](https://github.com/pavitrabehera7-ui/UIG-website)
+- 🤝 **Collaborative Work:** [the-blueprint-advisory](https://github.com/pavitrabehera7-ui/the-blueprint-advisory) | [UIG-website](https://github.com/pavitrabehera7-ui/UIG-website)|[Vaat-no-Vepar](https://github.com/ankita25-06/vaat-no-vepar)
 - 📌 **Featured Projects:** [Felinehub](https://github.com/ankita25-06/Felinehub) | [Zenith](https://github.com/ankita25-06/Zenith) | [PTCG-game](https://github.com/ankita25-06/PTCG-game) | [titanic_survival_app](https://github.com/ankita25-06/titanic_survival-app)
 
 <br/>
