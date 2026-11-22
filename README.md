@@ -7,11 +7,6 @@
 
 <br/>
 
-<!-- Middle Section: Text Left with Illustration Right -->
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/5f6e7009-5a64-4dff-ba48-a66fb5160687" width="38%" align="right" alt="Developer Illustration" />
-</p>
-
 ### 💻 Welcome to My GitHub Universe!
 
 - 🚀 **Current Focus:** AI, ML & Full-Stack Web Development
